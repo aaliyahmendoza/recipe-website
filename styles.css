@@ -1,5 +1,6 @@
 .title {
     color: black;
+    text-align: center;
 }
 
 body {
@@ -7,16 +8,12 @@ body {
 }
 
 a {
-    font-size: 22px;
+    font-size: 25px;
     background: 0;
     padding: 8px;
     text-decoration: none;
     color: black;
   }
-
-.title {
-    text-align: center;
-}
   
   div {
     padding: 30px;
